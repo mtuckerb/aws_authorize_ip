@@ -20,9 +20,9 @@ end
 # The yaml file looks like This
 
 # account_name:
-#     access_key_id: "key"
-#     secret_access_key: "key"
-#     security_group: "key"
-#     aws_region: "key"
+    # access_key_id: "key"
+    # secret_access_key: "key"
+    # security_group: "key"
+    # aws_region: "key"
 
 # The account_name is the same one the user would type at the "account name" prompt
